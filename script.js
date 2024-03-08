@@ -26,7 +26,7 @@ function calculateBMI() {
   } else if (bmi >= 25 && bmi <= 29.9) {
     document.getElementById('message').innerHTML = 'You are Over Weight'
   } else {
-    document.getElementById('message').innerHTML = 'You are Obese: Seek Help Right Away!'
+    document.getElementById('message').innerHTML = 'You are Obese'
   }
 
 }
