@@ -29,8 +29,6 @@ function calculateBMI() {
     document.getElementById('message').innerHTML = 'You are Obese: Seek Help Right Away!'
   }
 
-  // document.getElementById('message').innerHTML = 'You are Underweight'
-
 }
 
 function reload() {
